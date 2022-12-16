@@ -1,0 +1,12 @@
+total 112
+drwxr-xr-x  5 liwenye  staff    160 Dec 12 14:58 .
+drwx------+ 4 liwenye  staff    128 Dec 12 14:47 ..
+-rwxr-xr-x  1 liwenye  staff  49424 Dec 12 14:32 a.out
+-rw-r--r--  1 liwenye  staff     73 Dec 12 14:39 hello.c
+-rw-r--r--  1 liwenye  staff      0 Dec 12 14:59 output
+total 120
+drwxr-xr-x  5 liwenye  staff    160 Dec 12 14:58 .
+drwx------+ 4 liwenye  staff    128 Dec 12 14:47 ..
+-rwxr-xr-x  1 liwenye  staff  49424 Dec 12 14:32 a.out
+-rw-r--r--  1 liwenye  staff     73 Dec 12 14:39 hello.c
+-rw-r--r--  1 liwenye  staff    281 Dec 12 14:59 output
