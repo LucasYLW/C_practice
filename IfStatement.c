@@ -9,9 +9,20 @@ int main()
     scanf("%d", &temp);
     true_or_false = temp;
 
-    if (true)
+    if (true_or_false)
     {
         printf("No,shoule be 0\n");
+    } 
+    else if (false)
+    {
+        printf("This is 2\n");
     }
+    else
+    {
+        printf("No,answer is not 0\n");
+    }
+    
+    
+        
     return 0;
 }
